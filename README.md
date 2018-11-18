@@ -5,21 +5,21 @@ Currently probably one of the best miners for Ethash algo today. It provides sta
 claymore dual miner 11.9.2 nvidia cuda amd opencl ethereum miner latest
 
 FEATURES:
-?? Supports new "dual mining" mode: mining both Ethereum and Decred/Siacoin/Lbry/Pascal at the same time, with no impact on Ethereum mining speed. Ethereum-only mining mode is supported as well
-?? Effective Ethereum mining speed is higher by 3-5% because of a completely different miner code - much less invalid and outdated shares, higher GPU load, optimized OpenCL code, optimized assembler kernels
-?? Supports both AMD and nVidia cards, even mixed
-?? No DAG files
-?? Supports all Stratum versions for Ethereum: can be used directly without any proxies with all pools that support eth-proxy, qtminer or miner-proxy
-?? Supports Ethereum and Siacoin solo mining
-?? Supports both HTTP and Stratum for Decred
-?? Supports both HTTP and Stratum for Siacoin. Note: not all Stratum versions are supported currently for Siacoin
-?? Supports Stratum for Lbry and Pascal
-?? Supports failover
-?? Displays detailed mining information and hashrate for every card
-?? Supports remote monitoring and management
-?? Supports GPU selection, built-in GPU overclocking features and temperature management
-?? Supports Ethereum forks (Expanse, etc)
-?? Windows and Linux versions
+✔︎ Supports new "dual mining" mode: mining both Ethereum and Decred/Siacoin/Lbry/Pascal at the same time, with no impact on Ethereum mining speed. Ethereum-only mining mode is supported as well
+✔︎ Effective Ethereum mining speed is higher by 3-5% because of a completely different miner code - much less invalid and outdated shares, higher GPU load, optimized OpenCL code, optimized assembler kernels
+✔︎ Supports both AMD and nVidia cards, even mixed
+✔︎ No DAG files
+✔︎ Supports all Stratum versions for Ethereum: can be used directly without any proxies with all pools that support eth-proxy, qtminer or miner-proxy
+✔︎ Supports Ethereum and Siacoin solo mining
+✔︎ Supports both HTTP and Stratum for Decred
+✔︎ Supports both HTTP and Stratum for Siacoin. Note: not all Stratum versions are supported currently for Siacoin
+✔︎ Supports Stratum for Lbry and Pascal
+✔︎ Supports failover
+✔︎ Displays detailed mining information and hashrate for every card
+✔︎ Supports remote monitoring and management
+✔︎ Supports GPU selection, built-in GPU overclocking features and temperature management
+✔︎ Supports Ethereum forks (Expanse, etc)
+✔︎ Windows and Linux versions
 
 This miner is compatible with POOL/SOLO modes for the next coins:
 
